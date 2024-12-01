@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": 1, "email": "guest@guest.com", "pass": "1234567" },
+    { "id": 2, "email": "teste@teste.com", "pass": "56789" }
+  ],
+  "keys": [
+    { "id": 1, "name": "Beber 2 litros de água", "description": "Água é vida!" },
+    { "id": 2, "name": "Meditar 10 minutos", "description": "Respire fundo." },
+    { "id": 3, "name": "Fazer 30 minutos de exercício", "description": "Movimente-se." },
+    { "id": 4, "name": "Dormir 8 horas", "description": "Descanse bem." }
+  ]
+}
